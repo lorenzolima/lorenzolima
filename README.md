@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working at [Etaure](https://etaure.com.br)
 
-- 🌱 I'm learning about JavaScript and Js Technologies, HTML, CSS, Python
+- 🌱 I'm learning about JavaScript and Js Technologies, HTML, CSS, React
 
-- 💬 Ask me about **HTML, CSS, SQL, Python, Git**
+- 💬 Ask me about **HTML, CSS, SQL, Python, NodeJs, API**
 
 <br><br>
 
