@@ -1,4 +1,4 @@
-<h1 align="left">Hi - こんにちわ - Привет <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lorenzo Lima</h1>
+<h1 align="left">Hi - こんにちわ - Привет, I'm Lorenzo Lima</h1>
 
 - 🔥 I'm a Future Web Developer and UX/UI Designer
 
